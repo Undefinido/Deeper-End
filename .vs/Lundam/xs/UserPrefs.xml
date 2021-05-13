@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{014C5246-C041-5CD8-1D2B-26D02F2A16D3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/enemyIA.cs" Line="55" Column="13" />
+      <File FileName="Assets/Scripts/CombatSystem.cs" Line="20" Column="23" />
+      <File FileName="Assets/Scripts/CubeBehaviour.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/MenuManager.cs" Line="10" Column="37" />
+      <File FileName="Assets/Scripts/PlayerController.cs" Line="44" Column="113" />
+      <File FileName="Assets/Scripts/FloorSelector.cs" Line="12" Column="1" />
+      <File FileName="Assets/Scripts/SceneManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/BGSoundScript.cs" Line="23" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="83b4612b-a8d3-467e-aeb6-40e5ecf63e52" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 475463e422973f041b8e190cf9070b44, type: 3}
+  m_Name: New Scene Manager
+  m_EditorClassIdentifier: 
+  Distance: 5
+  unlocked: 0
+  CharacterSelect: CharSelection
+  AllFloors:
+  - Floors:
+    - BossRoom
+  - Floors:
+    - floor 1
+    - floor 2
+    - floor 3
+    - floor 4
+    - floor 5
+    - floor 6
+    - floor 7
+    - floor 8
+    - floor 9
+    - floor 10
+  - Floors:
+    - floor 1
+    - floor 2
+    - floor 3
+    - floor 4
+    - floor 5
+    - floor 6
+    - floor 7
+    - floor 8
+    - floor 9
+    - floor 10
+  - Floors:
+    - floor 1
+    - floor 2
+    - floor 3
+    - floor 4
+    - floor 5
+    - floor 6
+    - floor 7
+    - floor 8
+    - floor 9
+    - floor 10
+  - Floors:
+    - floor 1
+    - floor 2
+    - floor 3
+    - floor 4
+    - floor 5
+    - floor 6
+    - floor 7
+    - floor 8
+    - floor 9
+    - floor 10
